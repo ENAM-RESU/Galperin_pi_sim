@@ -8,5 +8,7 @@
 
 # Running it
   if you don't want to just use the defaults for all the functions, you will have to set what you want to when you call the functions
+  
   the default max for the highest N value you can call with collect_data is 10, so if you want to go higher, you will have to set the max highter when you call collect_data 
+  
   there isn't a "make a bunch of animations function" so you will have to use a "for n in range()" or something like that
